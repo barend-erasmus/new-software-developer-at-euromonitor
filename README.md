@@ -15,14 +15,14 @@ The first week was fun. I had a lot learn with plenty of fellow employees willin
 
 ## The Time with QA
 
-At first it was a struggle. Getting to learn the process of QA and grasping Telerik was quiet difficult. To think like a tester takes more planning than I initially thought, thinking of all the scenarios and entry points. Within the first week I started to find it easier but noticed a tester has a lot of responsibility which might be the reason why QA takes long. After I’ve been with QA, I have more respect for them and understand the hurdles that they might encounter. 
+At first it was a struggle. Getting to learn the process of QA and grasping Telerik was quite difficult. To think like a tester takes more planning than I initially thought, thinking of all the scenarios and entry points. Within the first week I started to find it easier but noticed a tester has a lot of responsibility which might be the reason why QA takes long. After I’ve been with QA, I have more respect for them and understand the hurdles that they might encounter. 
 
 ## Working as a Developer
 
-Knowing that Euromonitor developers have a large variety of skills, I was excited to start working with
+Knowing that Euromonitor developers has a large variety of skills, I was excited to start working with
 them. By learning something new every day made hours feel like minutes and months like weeks. I enjoy
-working in this environment where knowledge is always share and help is given when required.
+working in this environment where knowledge is always shared and help is provided when required.
 
 ## Goals
 
-As I’m still young, I still want to get BSc. degree but personally I value experience more than education thus I’m only looking to start my degree in 2019, for now I’m interested in Microsoft Certifications. 
+As I’m still young, I still want to get BSc. degree but personally I value experience more than education, thus I’m only looking to start my degree in 2019, for now I’m interested in Microsoft Certifications. 
